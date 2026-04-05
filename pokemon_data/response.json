@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-04T12:26:28.461815",
+  "timestamp": "2026-04-05T12:28:22.102872",
   "pokemon_data": {
-    "id": "0405",
-    "name": "Luxray",
-    "types": "Electric",
-    "species": "Gleam Eyes Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "42.0 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+    "id": "0928",
+    "name": "Smoliv",
+    "types": "Grass, Normal",
+    "species": "Olive Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "6.5 kg",
+    "abilities": "Early-Bird, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
   }
 }
