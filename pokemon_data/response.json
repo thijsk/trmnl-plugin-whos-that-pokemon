@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-06T12:41:14.110062",
+  "timestamp": "2026-04-07T12:50:30.809403",
   "pokemon_data": {
-    "id": "0117",
-    "name": "Seadra",
-    "types": "Water",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "25.0 kg",
-    "abilities": "Poison-Point, Sniper, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+    "id": "0463",
+    "name": "Lickilicky",
+    "types": "Normal",
+    "species": "Licking Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "140.0 kg",
+    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
   }
 }
