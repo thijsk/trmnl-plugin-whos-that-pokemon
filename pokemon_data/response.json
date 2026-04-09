@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-08T12:49:51.200010",
+  "timestamp": "2026-04-09T12:53:38.385508",
   "pokemon_data": {
-    "id": "0037",
-    "name": "Vulpix",
-    "types": "Fire",
-    "species": "Fox Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.9 kg",
-    "abilities": "Flash-Fire, Drought",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+    "id": "0301",
+    "name": "Delcatty",
+    "types": "Normal",
+    "species": "Prim Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.6 kg",
+    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
   }
 }
