@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-10T12:39:41.822721",
+  "timestamp": "2026-04-11T12:29:14.044438",
   "pokemon_data": {
-    "id": "0475",
-    "name": "Gallade",
-    "types": "Psychic, Fighting",
-    "species": "Blade Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "52.0 kg",
-    "abilities": "Steadfast, Sharpness, Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+    "id": "0507",
+    "name": "Herdier",
+    "types": "Normal",
+    "species": "Loyal Dog Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "14.7 kg",
+    "abilities": "Intimidate, Sand-Rush, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
   }
 }
