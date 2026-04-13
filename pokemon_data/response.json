@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-12T12:31:54.166771",
+  "timestamp": "2026-04-13T12:54:56.408661",
   "pokemon_data": {
-    "id": "0523",
-    "name": "Zebstrika",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
+    "id": "0376",
+    "name": "Metagross",
+    "types": "Steel, Psychic",
+    "species": "Iron Leg Pok\u00e9mon",
     "height": "1.6 m",
-    "weight": "79.5 kg",
-    "abilities": "Lightning-Rod, Motor-Drive, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+    "weight": "550.0 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
   }
 }
