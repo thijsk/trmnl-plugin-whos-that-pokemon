@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-13T12:54:56.408661",
+  "timestamp": "2026-04-14T12:54:10.990392",
   "pokemon_data": {
-    "id": "0376",
-    "name": "Metagross",
-    "types": "Steel, Psychic",
-    "species": "Iron Leg Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "550.0 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
+    "id": "0636",
+    "name": "Larvesta",
+    "types": "Bug, Fire",
+    "species": "Torch Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "28.8 kg",
+    "abilities": "Flame-Body, Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
   }
 }
