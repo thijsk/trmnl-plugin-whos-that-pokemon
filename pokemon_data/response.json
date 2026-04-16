@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-15T12:53:22.736869",
+  "timestamp": "2026-04-16T12:57:57.275409",
   "pokemon_data": {
-    "id": "0947",
-    "name": "Brambleghast",
-    "types": "Grass, Ghost",
-    "species": "Tumbleweed Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "6.0 kg",
-    "abilities": "Wind-Rider, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png"
+    "id": "0576",
+    "name": "Gothitelle",
+    "types": "Psychic",
+    "species": "Astral Body Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "44.0 kg",
+    "abilities": "Frisk, Competitive, Shadow-Tag",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
   }
 }
