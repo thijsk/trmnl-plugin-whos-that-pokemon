@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-16T12:57:57.275409",
+  "timestamp": "2026-04-17T12:49:55.219177",
   "pokemon_data": {
-    "id": "0576",
-    "name": "Gothitelle",
-    "types": "Psychic",
-    "species": "Astral Body Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "44.0 kg",
-    "abilities": "Frisk, Competitive, Shadow-Tag",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+    "id": "0013",
+    "name": "Weedle",
+    "types": "Bug, Poison",
+    "species": "Hairy Bug Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.2 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
   }
 }
