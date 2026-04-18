@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-17T12:49:55.219177",
+  "timestamp": "2026-04-18T12:32:28.120951",
   "pokemon_data": {
-    "id": "0013",
-    "name": "Weedle",
-    "types": "Bug, Poison",
-    "species": "Hairy Bug Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.2 kg",
-    "abilities": "Shield-Dust, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+    "id": "0099",
+    "name": "Kingler",
+    "types": "Water",
+    "species": "Pincer Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "60.0 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
   }
 }
