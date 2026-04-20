@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-19T12:31:33.047908",
+  "timestamp": "2026-04-20T12:59:15.075540",
   "pokemon_data": {
-    "id": "0434",
-    "name": "Stunky",
-    "types": "Poison, Dark",
-    "species": "Skunk Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "19.2 kg",
-    "abilities": "Stench, Aftermath, Keen-Eye",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png"
+    "id": "0863",
+    "name": "Perrserker",
+    "types": "Steel",
+    "species": "Viking Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.0 kg",
+    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
   }
 }
