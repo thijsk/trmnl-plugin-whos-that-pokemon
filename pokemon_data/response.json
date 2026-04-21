@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-20T12:59:15.075540",
+  "timestamp": "2026-04-21T12:54:11.662322",
   "pokemon_data": {
-    "id": "0863",
-    "name": "Perrserker",
-    "types": "Steel",
-    "species": "Viking Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "28.0 kg",
-    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
+    "id": "0158",
+    "name": "Totodile",
+    "types": "Water",
+    "species": "Big Jaw Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.5 kg",
+    "abilities": "Torrent, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
   }
 }
