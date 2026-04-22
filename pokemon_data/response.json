@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-21T12:54:11.662322",
+  "timestamp": "2026-04-22T12:54:11.893444",
   "pokemon_data": {
-    "id": "0158",
-    "name": "Totodile",
-    "types": "Water",
-    "species": "Big Jaw Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.5 kg",
-    "abilities": "Torrent, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+    "id": "0874",
+    "name": "Stonjourner",
+    "types": "Rock",
+    "species": "Big Rock Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "520.0 kg",
+    "abilities": "Power-Spot",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
   }
 }
