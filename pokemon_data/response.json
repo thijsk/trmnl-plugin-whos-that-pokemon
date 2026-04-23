@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-22T12:54:11.893444",
+  "timestamp": "2026-04-23T12:54:03.489104",
   "pokemon_data": {
-    "id": "0874",
-    "name": "Stonjourner",
-    "types": "Rock",
-    "species": "Big Rock Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "520.0 kg",
-    "abilities": "Power-Spot",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+    "id": "0978",
+    "name": "Tatsugiri-Curly",
+    "types": "Dragon, Water",
+    "species": "Mimicry Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.0 kg",
+    "abilities": "Commander, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
   }
 }
