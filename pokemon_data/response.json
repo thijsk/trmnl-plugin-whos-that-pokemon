@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-23T12:54:03.489104",
+  "timestamp": "2026-04-24T12:52:09.183064",
   "pokemon_data": {
-    "id": "0978",
-    "name": "Tatsugiri-Curly",
-    "types": "Dragon, Water",
-    "species": "Mimicry Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.0 kg",
-    "abilities": "Commander, Storm-Drain",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
+    "id": "0681",
+    "name": "Aegislash-Shield",
+    "types": "Steel, Ghost",
+    "species": "Royal Sword Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "53.0 kg",
+    "abilities": "Stance-Change",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png"
   }
 }
