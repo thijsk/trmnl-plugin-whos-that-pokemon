@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-27T13:11:54.609781",
+  "timestamp": "2026-04-28T13:22:11.694474",
   "pokemon_data": {
-    "id": "0465",
-    "name": "Tangrowth",
-    "types": "Grass",
-    "species": "Vine Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "128.6 kg",
-    "abilities": "Chlorophyll, Leaf-Guard, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png"
+    "id": "0562",
+    "name": "Yamask",
+    "types": "Ghost",
+    "species": "Spirit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.5 kg",
+    "abilities": "Mummy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
   }
 }
