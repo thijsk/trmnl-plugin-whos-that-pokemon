@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-30T13:14:31.712980",
+  "timestamp": "2026-05-01T12:47:53.345170",
   "pokemon_data": {
-    "id": "0407",
-    "name": "Roserade",
-    "types": "Grass, Poison",
-    "species": "Bouquet Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "14.5 kg",
-    "abilities": "Natural-Cure, Poison-Point, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png"
+    "id": "0047",
+    "name": "Parasect",
+    "types": "Bug, Grass",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "abilities": "Effect-Spore, Dry-Skin, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
   }
 }
