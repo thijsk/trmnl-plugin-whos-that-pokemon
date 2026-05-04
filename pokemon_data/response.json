@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-03T12:38:51.019979",
+  "timestamp": "2026-05-04T13:16:39.761451",
   "pokemon_data": {
-    "id": "0618",
-    "name": "Stunfisk",
-    "types": "Ground, Electric",
-    "species": "Trap Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "11.0 kg",
-    "abilities": "Static, Limber, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+    "id": "0374",
+    "name": "Beldum",
+    "types": "Steel, Psychic",
+    "species": "Iron Ball Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "95.2 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png"
   }
 }
