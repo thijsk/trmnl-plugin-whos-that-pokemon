@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-04T13:16:39.761451",
+  "timestamp": "2026-05-05T13:03:23.076586",
   "pokemon_data": {
-    "id": "0374",
-    "name": "Beldum",
-    "types": "Steel, Psychic",
-    "species": "Iron Ball Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "95.2 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png"
+    "id": "0744",
+    "name": "Rockruff",
+    "types": "Rock",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.2 kg",
+    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
   }
 }
