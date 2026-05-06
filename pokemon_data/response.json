@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-05T13:03:23.076586",
+  "timestamp": "2026-05-06T13:23:03.781272",
   "pokemon_data": {
-    "id": "0744",
-    "name": "Rockruff",
-    "types": "Rock",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.2 kg",
-    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+    "id": "0636",
+    "name": "Larvesta",
+    "types": "Bug, Fire",
+    "species": "Torch Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "28.8 kg",
+    "abilities": "Flame-Body, Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
   }
 }
