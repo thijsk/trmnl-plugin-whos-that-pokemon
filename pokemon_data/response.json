@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-06T13:23:03.781272",
+  "timestamp": "2026-05-07T13:22:55.872721",
   "pokemon_data": {
-    "id": "0636",
-    "name": "Larvesta",
-    "types": "Bug, Fire",
-    "species": "Torch Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "28.8 kg",
-    "abilities": "Flame-Body, Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+    "id": "0062",
+    "name": "Poliwrath",
+    "types": "Water, Fighting",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "54.0 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
   }
 }
