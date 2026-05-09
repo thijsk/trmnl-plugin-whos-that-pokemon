@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-08T13:02:52.210713",
+  "timestamp": "2026-05-09T12:45:28.084348",
   "pokemon_data": {
-    "id": "0203",
-    "name": "Girafarig",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "41.5 kg",
-    "abilities": "Inner-Focus, Early-Bird, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+    "id": "0016",
+    "name": "Pidgey",
+    "types": "Normal, Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
   }
 }
