@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-09T12:45:28.084348",
+  "timestamp": "2026-05-10T12:45:55.370675",
   "pokemon_data": {
-    "id": "0016",
-    "name": "Pidgey",
-    "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.8 kg",
-    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+    "id": "0884",
+    "name": "Duraludon",
+    "types": "Steel, Dragon",
+    "species": "Alloy Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "40.0 kg",
+    "abilities": "Light-Metal, Heavy-Metal, Stalwart",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
   }
 }
