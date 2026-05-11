@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-10T12:45:55.370675",
+  "timestamp": "2026-05-11T14:15:32.593310",
   "pokemon_data": {
-    "id": "0884",
-    "name": "Duraludon",
-    "types": "Steel, Dragon",
-    "species": "Alloy Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "40.0 kg",
-    "abilities": "Light-Metal, Heavy-Metal, Stalwart",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
+    "id": "0131",
+    "name": "Lapras",
+    "types": "Water, Ice",
+    "species": "Transport Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "220.0 kg",
+    "abilities": "Water-Absorb, Shell-Armor, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
   }
 }
