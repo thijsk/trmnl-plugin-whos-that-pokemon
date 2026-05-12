@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-11T14:15:32.593310",
+  "timestamp": "2026-05-12T13:30:52.776506",
   "pokemon_data": {
-    "id": "0131",
-    "name": "Lapras",
-    "types": "Water, Ice",
-    "species": "Transport Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "220.0 kg",
-    "abilities": "Water-Absorb, Shell-Armor, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+    "id": "0720",
+    "name": "Hoopa",
+    "types": "Psychic, Ghost",
+    "species": "Mischief Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "abilities": "Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
   }
 }
