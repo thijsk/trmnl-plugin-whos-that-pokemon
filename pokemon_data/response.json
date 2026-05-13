@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-12T13:30:52.776506",
+  "timestamp": "2026-05-13T13:58:31.592788",
   "pokemon_data": {
-    "id": "0720",
-    "name": "Hoopa",
-    "types": "Psychic, Ghost",
-    "species": "Mischief Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+    "id": "0396",
+    "name": "Starly",
+    "types": "Normal, Flying",
+    "species": "Starling Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Keen-Eye, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
   }
 }
