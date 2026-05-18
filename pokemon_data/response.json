@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-17T12:47:30.224387",
+  "timestamp": "2026-05-18T14:48:13.234497",
   "pokemon_data": {
-    "id": "0347",
-    "name": "Anorith",
-    "types": "Rock, Bug",
-    "species": "Old Shrimp Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "12.5 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
+    "id": "0565",
+    "name": "Carracosta",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "81.0 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
   }
 }
