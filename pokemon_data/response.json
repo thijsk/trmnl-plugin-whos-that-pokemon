@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-18T14:48:13.234497",
+  "timestamp": "2026-05-19T14:26:57.215274",
   "pokemon_data": {
-    "id": "0565",
-    "name": "Carracosta",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "81.0 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+    "id": "0771",
+    "name": "Pyukumuku",
+    "types": "Water",
+    "species": "Sea Cucumber Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.2 kg",
+    "abilities": "Innards-Out, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png"
   }
 }
