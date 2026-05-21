@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-20T14:27:26.899566",
+  "timestamp": "2026-05-21T14:35:49.562931",
   "pokemon_data": {
-    "id": "0857",
-    "name": "Hattrem",
+    "id": "0386",
+    "name": "Deoxys-Normal",
     "types": "Psychic",
-    "species": "Serene Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "4.8 kg",
-    "abilities": "Healer, Anticipation, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+    "species": "Dna Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "60.8 kg",
+    "abilities": "Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
   }
 }
