@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-21T14:35:49.562931",
+  "timestamp": "2026-05-22T14:08:26.381574",
   "pokemon_data": {
-    "id": "0386",
-    "name": "Deoxys-Normal",
-    "types": "Psychic",
-    "species": "Dna Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "60.8 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+    "id": "0671",
+    "name": "Florges",
+    "types": "Fairy",
+    "species": "Garden Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "10.0 kg",
+    "abilities": "Flower-Veil, Symbiosis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
   }
 }
