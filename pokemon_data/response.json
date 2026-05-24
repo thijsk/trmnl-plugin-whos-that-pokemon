@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-23T12:52:25.457589",
+  "timestamp": "2026-05-24T12:53:15.905686",
   "pokemon_data": {
-    "id": "0671",
-    "name": "Florges",
-    "types": "Fairy",
-    "species": "Garden Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "10.0 kg",
-    "abilities": "Flower-Veil, Symbiosis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+    "id": "0552",
+    "name": "Krokorok",
+    "types": "Ground, Dark",
+    "species": "Desert Croc Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "33.4 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
   }
 }
