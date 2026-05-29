@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-28T14:58:25.413220",
+  "timestamp": "2026-05-29T14:31:37.166665",
   "pokemon_data": {
-    "id": "0660",
-    "name": "Diggersby",
-    "types": "Normal, Ground",
-    "species": "Digging Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "42.4 kg",
-    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
+    "id": "0421",
+    "name": "Cherrim",
+    "types": "Grass",
+    "species": "Blossom Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.3 kg",
+    "abilities": "Flower-Gift",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png"
   }
 }
