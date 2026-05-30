@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-29T14:31:37.166665",
+  "timestamp": "2026-05-30T12:56:11.436263",
   "pokemon_data": {
-    "id": "0421",
-    "name": "Cherrim",
-    "types": "Grass",
-    "species": "Blossom Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.3 kg",
-    "abilities": "Flower-Gift",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png"
+    "id": "0760",
+    "name": "Bewear",
+    "types": "Normal, Fighting",
+    "species": "Strong Arm Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "135.0 kg",
+    "abilities": "Fluffy, Klutz, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
   }
 }
