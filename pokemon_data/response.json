@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-30T12:56:11.436263",
+  "timestamp": "2026-05-31T13:05:33.847074",
   "pokemon_data": {
-    "id": "0760",
-    "name": "Bewear",
-    "types": "Normal, Fighting",
-    "species": "Strong Arm Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "135.0 kg",
-    "abilities": "Fluffy, Klutz, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
+    "id": "0341",
+    "name": "Corphish",
+    "types": "Water",
+    "species": "Ruffian Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
   }
 }
