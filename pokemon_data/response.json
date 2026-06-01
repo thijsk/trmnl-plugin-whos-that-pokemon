@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-31T13:05:33.847074",
+  "timestamp": "2026-06-01T17:09:05.364820",
   "pokemon_data": {
-    "id": "0341",
-    "name": "Corphish",
+    "id": "0060",
+    "name": "Poliwag",
     "types": "Water",
-    "species": "Ruffian Pok\u00e9mon",
+    "species": "Tadpole Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "11.5 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
+    "weight": "12.4 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
   }
 }
