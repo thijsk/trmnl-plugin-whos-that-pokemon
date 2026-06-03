@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-02T15:51:21.266314",
+  "timestamp": "2026-06-03T16:08:47.805341",
   "pokemon_data": {
-    "id": "1024",
-    "name": "Terapagos",
-    "types": "Normal",
-    "species": "Tera Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "6.5 kg",
-    "abilities": "Tera-Shift",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
+    "id": "0175",
+    "name": "Togepi",
+    "types": "Fairy",
+    "species": "Spike Ball Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.5 kg",
+    "abilities": "Hustle, Serene-Grace, Super-Luck",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
   }
 }
