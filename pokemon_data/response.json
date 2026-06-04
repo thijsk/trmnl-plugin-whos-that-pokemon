@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-03T16:08:47.805341",
+  "timestamp": "2026-06-04T14:26:28.330127",
   "pokemon_data": {
-    "id": "0175",
-    "name": "Togepi",
-    "types": "Fairy",
-    "species": "Spike Ball Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.5 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+    "id": "0123",
+    "name": "Scyther",
+    "types": "Bug, Flying",
+    "species": "Mantis Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "56.0 kg",
+    "abilities": "Swarm, Technician, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
   }
 }
