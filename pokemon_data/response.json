@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-04T14:26:28.330127",
+  "timestamp": "2026-06-05T14:16:08.995716",
   "pokemon_data": {
-    "id": "0123",
-    "name": "Scyther",
-    "types": "Bug, Flying",
-    "species": "Mantis Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "56.0 kg",
-    "abilities": "Swarm, Technician, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    "id": "0770",
+    "name": "Palossand",
+    "types": "Ghost, Ground",
+    "species": "Sand Castle Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "250.0 kg",
+    "abilities": "Water-Compaction, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png"
   }
 }
