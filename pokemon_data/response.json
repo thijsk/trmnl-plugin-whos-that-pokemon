@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-07T13:13:12.458923",
+  "timestamp": "2026-06-08T15:20:10.163239",
   "pokemon_data": {
-    "id": "0617",
-    "name": "Accelgor",
-    "types": "Bug",
-    "species": "Shell Out Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "25.3 kg",
-    "abilities": "Hydration, Sticky-Hold, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png"
+    "id": "0024",
+    "name": "Arbok",
+    "types": "Poison",
+    "species": "Cobra Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "65.0 kg",
+    "abilities": "Intimidate, Shed-Skin, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
   }
 }
