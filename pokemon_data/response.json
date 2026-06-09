@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-08T15:20:10.163239",
+  "timestamp": "2026-06-09T14:13:37.303583",
   "pokemon_data": {
-    "id": "0024",
-    "name": "Arbok",
-    "types": "Poison",
-    "species": "Cobra Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "65.0 kg",
-    "abilities": "Intimidate, Shed-Skin, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+    "id": "0465",
+    "name": "Tangrowth",
+    "types": "Grass",
+    "species": "Vine Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "128.6 kg",
+    "abilities": "Chlorophyll, Leaf-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png"
   }
 }
