@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-10T14:44:39.993163",
+  "timestamp": "2026-06-11T15:26:08.202820",
   "pokemon_data": {
-    "id": "0133",
-    "name": "Eevee",
-    "types": "Normal",
-    "species": "Evolution Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.5 kg",
-    "abilities": "Run-Away, Adaptability, Anticipation",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+    "id": "0974",
+    "name": "Cetoddle",
+    "types": "Ice",
+    "species": "Terra Whale Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "45.0 kg",
+    "abilities": "Thick-Fat, Snow-Cloak, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png"
   }
 }
