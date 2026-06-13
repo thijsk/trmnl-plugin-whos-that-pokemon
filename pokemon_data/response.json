@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-12T14:26:54.593338",
+  "timestamp": "2026-06-13T13:17:14.894070",
   "pokemon_data": {
-    "id": "0482",
-    "name": "Azelf",
-    "types": "Psychic",
-    "species": "Willpower Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png"
+    "id": "0988",
+    "name": "Slither-Wing",
+    "types": "Bug, Fighting",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "92.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png"
   }
 }
