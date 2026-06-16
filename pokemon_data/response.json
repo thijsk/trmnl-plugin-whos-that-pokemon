@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-15T16:48:04.267277",
+  "timestamp": "2026-06-16T16:16:28.710435",
   "pokemon_data": {
-    "id": "0422",
-    "name": "Shellos",
-    "types": "Water",
-    "species": "Sea Slug Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.3 kg",
-    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+    "id": "0980",
+    "name": "Clodsire",
+    "types": "Poison, Ground",
+    "species": "Spiny Fish Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "223.0 kg",
+    "abilities": "Poison-Point, Water-Absorb, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
   }
 }
