@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-16T16:16:28.710435",
+  "timestamp": "2026-06-17T14:43:17.757932",
   "pokemon_data": {
-    "id": "0980",
-    "name": "Clodsire",
-    "types": "Poison, Ground",
-    "species": "Spiny Fish Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "223.0 kg",
-    "abilities": "Poison-Point, Water-Absorb, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
+    "id": "0346",
+    "name": "Cradily",
+    "types": "Rock, Grass",
+    "species": "Barnacle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "60.4 kg",
+    "abilities": "Suction-Cups, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
   }
 }
