@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-19T14:35:11.270189",
+  "timestamp": "2026-06-20T13:19:25.596914",
   "pokemon_data": {
-    "id": "0012",
-    "name": "Butterfree",
-    "types": "Bug, Flying",
-    "species": "Butterfly Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.0 kg",
-    "abilities": "Compound-Eyes, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+    "id": "0276",
+    "name": "Taillow",
+    "types": "Normal, Flying",
+    "species": "Tiny Swallow Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.3 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
   }
 }
