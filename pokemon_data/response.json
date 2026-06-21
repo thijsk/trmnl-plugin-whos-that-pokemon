@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-20T13:19:25.596914",
+  "timestamp": "2026-06-21T13:29:04.620908",
   "pokemon_data": {
-    "id": "0276",
-    "name": "Taillow",
-    "types": "Normal, Flying",
-    "species": "Tiny Swallow Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.3 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
+    "id": "0651",
+    "name": "Quilladin",
+    "types": "Grass",
+    "species": "Spiny Armor Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "29.0 kg",
+    "abilities": "Overgrow, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
   }
 }
