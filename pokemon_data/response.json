@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-22T16:21:27.958999",
+  "timestamp": "2026-06-23T14:13:37.888081",
   "pokemon_data": {
-    "id": "0340",
-    "name": "Whiscash",
-    "types": "Water, Ground",
-    "species": "Whiskers Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "23.6 kg",
-    "abilities": "Oblivious, Anticipation, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
+    "id": "0504",
+    "name": "Patrat",
+    "types": "Normal",
+    "species": "Scout Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "11.6 kg",
+    "abilities": "Run-Away, Keen-Eye, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png"
   }
 }
