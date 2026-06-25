@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-24T13:58:25.251180",
+  "timestamp": "2026-06-25T13:55:44.823982",
   "pokemon_data": {
-    "id": "0032",
-    "name": "Nidoran-M",
-    "types": "Poison",
-    "species": "Poison Pin Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Poison-Point, Rivalry, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+    "id": "0764",
+    "name": "Comfey",
+    "types": "Fairy",
+    "species": "Posy Picker Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.3 kg",
+    "abilities": "Flower-Veil, Triage, Natural-Cure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png"
   }
 }
