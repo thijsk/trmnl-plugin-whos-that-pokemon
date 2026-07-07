@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-06T14:49:13.999877",
+  "timestamp": "2026-07-07T13:59:24.908666",
   "pokemon_data": {
-    "id": "0945",
-    "name": "Grafaiai",
-    "types": "Poison, Normal",
-    "species": "Toxic Monkey Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "27.2 kg",
-    "abilities": "Unburden, Poison-Touch, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
+    "id": "0501",
+    "name": "Oshawott",
+    "types": "Water",
+    "species": "Sea Otter Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.9 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
   }
 }
