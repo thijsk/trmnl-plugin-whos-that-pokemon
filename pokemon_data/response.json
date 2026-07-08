@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-07T13:59:24.908666",
+  "timestamp": "2026-07-08T13:21:45.266841",
   "pokemon_data": {
-    "id": "0501",
-    "name": "Oshawott",
-    "types": "Water",
-    "species": "Sea Otter Pok\u00e9mon",
+    "id": "0504",
+    "name": "Patrat",
+    "types": "Normal",
+    "species": "Scout Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "5.9 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+    "weight": "11.6 kg",
+    "abilities": "Run-Away, Keen-Eye, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png"
   }
 }
