@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-09T14:22:01.224763",
+  "timestamp": "2026-07-10T13:48:42.193888",
   "pokemon_data": {
-    "id": "0278",
-    "name": "Wingull",
-    "types": "Water, Flying",
-    "species": "Seagull Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.5 kg",
-    "abilities": "Keen-Eye, Hydration, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
+    "id": "0462",
+    "name": "Magnezone",
+    "types": "Electric, Steel",
+    "species": "Magnet Area Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "180.0 kg",
+    "abilities": "Magnet-Pull, Sturdy, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png"
   }
 }
