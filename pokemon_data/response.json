@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-11T12:44:27.263130",
+  "timestamp": "2026-07-12T12:46:31.792695",
   "pokemon_data": {
-    "id": "0642",
-    "name": "Thundurus-Incarnate",
-    "types": "Electric, Flying",
-    "species": "Bolt Strike Pok\u00e9mon",
+    "id": "0866",
+    "name": "Mr-Rime",
+    "types": "Ice, Psychic",
+    "species": "Comedian Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "61.0 kg",
-    "abilities": "Prankster, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
+    "weight": "58.2 kg",
+    "abilities": "Tangled-Feet, Screen-Cleaner, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
   }
 }
