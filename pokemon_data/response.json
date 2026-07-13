@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-12T12:46:31.792695",
+  "timestamp": "2026-07-13T13:53:55.560456",
   "pokemon_data": {
-    "id": "0866",
-    "name": "Mr-Rime",
-    "types": "Ice, Psychic",
-    "species": "Comedian Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "58.2 kg",
-    "abilities": "Tangled-Feet, Screen-Cleaner, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
+    "id": "0342",
+    "name": "Crawdaunt",
+    "types": "Water, Dark",
+    "species": "Rogue Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.8 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
   }
 }
