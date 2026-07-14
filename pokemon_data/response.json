@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-13T13:53:55.560456",
+  "timestamp": "2026-07-14T12:58:43.167449",
   "pokemon_data": {
-    "id": "0342",
-    "name": "Crawdaunt",
-    "types": "Water, Dark",
-    "species": "Rogue Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.8 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
+    "id": "0277",
+    "name": "Swellow",
+    "types": "Normal, Flying",
+    "species": "Swallow Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "19.8 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
   }
 }
