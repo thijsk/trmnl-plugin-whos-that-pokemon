@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-14T12:58:43.167449",
+  "timestamp": "2026-07-15T13:02:16.494179",
   "pokemon_data": {
-    "id": "0277",
-    "name": "Swellow",
-    "types": "Normal, Flying",
-    "species": "Swallow Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "19.8 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+    "id": "1014",
+    "name": "Okidogi",
+    "types": "Poison, Fighting",
+    "species": "Retainer Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "92.2 kg",
+    "abilities": "Toxic-Chain, Guard-Dog",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
   }
 }
