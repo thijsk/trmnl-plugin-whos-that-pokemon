@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-15T13:02:16.494179",
+  "timestamp": "2026-07-16T13:10:11.474321",
   "pokemon_data": {
-    "id": "1014",
-    "name": "Okidogi",
-    "types": "Poison, Fighting",
-    "species": "Retainer Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "92.2 kg",
-    "abilities": "Toxic-Chain, Guard-Dog",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
+    "id": "0350",
+    "name": "Milotic",
+    "types": "Water",
+    "species": "Tender Pok\u00e9mon",
+    "height": "6.2 m",
+    "weight": "162.0 kg",
+    "abilities": "Marvel-Scale, Competitive, Cute-Charm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
   }
 }
