@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-16T13:10:11.474321",
+  "timestamp": "2026-07-17T12:55:14.660430",
   "pokemon_data": {
-    "id": "0350",
-    "name": "Milotic",
-    "types": "Water",
-    "species": "Tender Pok\u00e9mon",
-    "height": "6.2 m",
-    "weight": "162.0 kg",
-    "abilities": "Marvel-Scale, Competitive, Cute-Charm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+    "id": "0844",
+    "name": "Sandaconda",
+    "types": "Ground",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "3.8 m",
+    "weight": "65.5 kg",
+    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
   }
 }
