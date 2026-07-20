@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-19T12:43:38.494183",
+  "timestamp": "2026-07-20T13:43:37.202651",
   "pokemon_data": {
-    "id": "0426",
-    "name": "Drifblim",
-    "types": "Ghost, Flying",
-    "species": "Blimp Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "15.0 kg",
-    "abilities": "Aftermath, Unburden, Flare-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+    "id": "0084",
+    "name": "Doduo",
+    "types": "Normal, Flying",
+    "species": "Twin Bird Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "39.2 kg",
+    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
   }
 }
