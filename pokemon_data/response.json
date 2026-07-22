@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-21T13:08:12.247094",
+  "timestamp": "2026-07-22T13:13:50.799055",
   "pokemon_data": {
-    "id": "0257",
-    "name": "Blaziken",
-    "types": "Fire, Fighting",
-    "species": "Blaze Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "52.0 kg",
-    "abilities": "Blaze, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png"
+    "id": "1019",
+    "name": "Hydrapple",
+    "types": "Grass, Dragon",
+    "species": "Apple Hydra Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "93.0 kg",
+    "abilities": "Supersweet-Syrup, Regenerator, Sticky-Hold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
   }
 }
