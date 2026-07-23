@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-22T13:13:50.799055",
+  "timestamp": "2026-07-23T13:17:17.704621",
   "pokemon_data": {
-    "id": "1019",
-    "name": "Hydrapple",
-    "types": "Grass, Dragon",
-    "species": "Apple Hydra Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "93.0 kg",
-    "abilities": "Supersweet-Syrup, Regenerator, Sticky-Hold",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
+    "id": "0109",
+    "name": "Koffing",
+    "types": "Poison",
+    "species": "Poison Gas Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "1.0 kg",
+    "abilities": "Levitate, Neutralizing-Gas, Stench",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
   }
 }
