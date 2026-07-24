@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-23T13:17:17.704621",
+  "timestamp": "2026-07-24T13:10:22.596261",
   "pokemon_data": {
-    "id": "0109",
-    "name": "Koffing",
-    "types": "Poison",
-    "species": "Poison Gas Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Levitate, Neutralizing-Gas, Stench",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+    "id": "0918",
+    "name": "Spidops",
+    "types": "Bug",
+    "species": "Trap Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "16.5 kg",
+    "abilities": "Insomnia, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
   }
 }
