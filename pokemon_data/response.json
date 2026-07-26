@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-25T12:53:18.842960",
+  "timestamp": "2026-07-26T12:50:28.154053",
   "pokemon_data": {
-    "id": "0554",
-    "name": "Darumaka",
-    "types": "Fire",
-    "species": "Zen Charm Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "37.5 kg",
-    "abilities": "Hustle, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png"
+    "id": "0373",
+    "name": "Salamence",
+    "types": "Dragon, Flying",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "102.6 kg",
+    "abilities": "Intimidate, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
   }
 }
