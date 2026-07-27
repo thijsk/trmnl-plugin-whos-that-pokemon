@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-26T12:50:28.154053",
+  "timestamp": "2026-07-27T14:04:17.291649",
   "pokemon_data": {
-    "id": "0373",
-    "name": "Salamence",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "102.6 kg",
-    "abilities": "Intimidate, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+    "id": "0432",
+    "name": "Purugly",
+    "types": "Normal",
+    "species": "Tiger Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
