@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-27T14:04:17.291649",
+  "timestamp": "2026-07-28T13:23:42.668646",
   "pokemon_data": {
-    "id": "0432",
-    "name": "Purugly",
-    "types": "Normal",
-    "species": "Tiger Cat Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "43.8 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
+    "id": "0722",
+    "name": "Rowlet",
+    "types": "Grass, Flying",
+    "species": "Grass Quill Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.5 kg",
+    "abilities": "Overgrow, Long-Reach",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
   }
 }
