@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-28T13:23:42.668646",
+  "timestamp": "2026-07-29T13:29:45.814182",
   "pokemon_data": {
-    "id": "0722",
-    "name": "Rowlet",
-    "types": "Grass, Flying",
-    "species": "Grass Quill Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.5 kg",
-    "abilities": "Overgrow, Long-Reach",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
+    "id": "0932",
+    "name": "Nacli",
+    "types": "Rock",
+    "species": "Rock Salt Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "16.0 kg",
+    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
   }
 }
