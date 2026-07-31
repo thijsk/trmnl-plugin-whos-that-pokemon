@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-30T13:19:55.617431",
+  "timestamp": "2026-07-31T13:23:21.786347",
   "pokemon_data": {
-    "id": "0111",
-    "name": "Rhyhorn",
-    "types": "Ground, Rock",
-    "species": "Spikes Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "115.0 kg",
-    "abilities": "Lightning-Rod, Rock-Head, Reckless",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
+    "id": "0984",
+    "name": "Great-Tusk",
+    "types": "Ground, Fighting",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "320.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png"
   }
 }
