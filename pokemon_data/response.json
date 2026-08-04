@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-03T14:08:06.326061",
+  "timestamp": "2026-08-04T13:30:13.035290",
   "pokemon_data": {
-    "id": "0153",
-    "name": "Bayleef",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "15.8 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png"
+    "id": "0898",
+    "name": "Calyrex",
+    "types": "Psychic, Grass",
+    "species": "King Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "7.7 kg",
+    "abilities": "Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
   }
 }
