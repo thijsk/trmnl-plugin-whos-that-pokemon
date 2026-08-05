@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-04T13:30:13.035290",
+  "timestamp": "2026-08-05T13:28:10.928581",
   "pokemon_data": {
-    "id": "0898",
-    "name": "Calyrex",
-    "types": "Psychic, Grass",
-    "species": "King Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "7.7 kg",
-    "abilities": "Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+    "id": "0667",
+    "name": "Litleo",
+    "types": "Fire, Normal",
+    "species": "Lion Cub Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "13.5 kg",
+    "abilities": "Rivalry, Unnerve, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
   }
 }
