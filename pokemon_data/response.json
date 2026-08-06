@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-05T13:28:10.928581",
+  "timestamp": "2026-08-06T13:26:46.524616",
   "pokemon_data": {
-    "id": "0667",
-    "name": "Litleo",
-    "types": "Fire, Normal",
-    "species": "Lion Cub Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "13.5 kg",
-    "abilities": "Rivalry, Unnerve, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
+    "id": "0072",
+    "name": "Tentacool",
+    "types": "Water, Poison",
+    "species": "Jellyfish Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "45.5 kg",
+    "abilities": "Clear-Body, Liquid-Ooze, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
   }
 }
