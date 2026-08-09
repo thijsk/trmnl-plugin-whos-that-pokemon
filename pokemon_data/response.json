@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-08T12:19:24.151391",
+  "timestamp": "2026-08-09T12:21:26.065677",
   "pokemon_data": {
-    "id": "0674",
-    "name": "Pancham",
-    "types": "Fighting",
-    "species": "Playful Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.0 kg",
-    "abilities": "Iron-Fist, Mold-Breaker, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+    "id": "0977",
+    "name": "Dondozo",
+    "types": "Water",
+    "species": "Big Catfish Pok\u00e9mon",
+    "height": "12.0 m",
+    "weight": "220.0 kg",
+    "abilities": "Unaware, Oblivious, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
   }
 }
