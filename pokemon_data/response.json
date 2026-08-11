@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-10T12:37:30.734450",
+  "timestamp": "2026-08-11T12:34:31.829429",
   "pokemon_data": {
-    "id": "0375",
-    "name": "Metang",
-    "types": "Steel, Psychic",
-    "species": "Iron Claw Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "202.5 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png"
+    "id": "0927",
+    "name": "Dachsbun",
+    "types": "Fairy",
+    "species": "Dog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "14.9 kg",
+    "abilities": "Well-Baked-Body, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
   }
 }
