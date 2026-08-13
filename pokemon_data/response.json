@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-12T12:37:13.330910",
+  "timestamp": "2026-08-13T12:37:53.199113",
   "pokemon_data": {
-    "id": "0874",
-    "name": "Stonjourner",
-    "types": "Rock",
-    "species": "Big Rock Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "520.0 kg",
-    "abilities": "Power-Spot",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+    "id": "0828",
+    "name": "Thievul",
+    "types": "Dark",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "19.9 kg",
+    "abilities": "Run-Away, Unburden, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
   }
 }
