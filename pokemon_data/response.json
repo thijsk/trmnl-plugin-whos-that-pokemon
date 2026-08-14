@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-13T12:37:53.199113",
+  "timestamp": "2026-08-14T12:34:01.809143",
   "pokemon_data": {
-    "id": "0828",
-    "name": "Thievul",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "19.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
+    "id": "0879",
+    "name": "Copperajah",
+    "types": "Steel",
+    "species": "Copperderm Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "650.0 kg",
+    "abilities": "Sheer-Force, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png"
   }
 }
