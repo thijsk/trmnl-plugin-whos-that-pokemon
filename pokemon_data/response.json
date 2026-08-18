@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-17T12:15:57.813919",
+  "timestamp": "2026-08-18T12:17:39.222933",
   "pokemon_data": {
-    "id": "0900",
-    "name": "Kleavor",
-    "types": "Bug, Rock",
-    "species": "Axe Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "89.0 kg",
-    "abilities": "Swarm, Sheer-Force, Sharpness",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png"
+    "id": "0396",
+    "name": "Starly",
+    "types": "Normal, Flying",
+    "species": "Starling Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Keen-Eye, Reckless",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
   }
 }
