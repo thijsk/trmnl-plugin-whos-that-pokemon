@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-20T12:19:21.455250",
+  "timestamp": "2026-08-21T12:19:09.924791",
   "pokemon_data": {
-    "id": "0872",
-    "name": "Snom",
-    "types": "Ice, Bug",
-    "species": "Worm Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.8 kg",
-    "abilities": "Shield-Dust, Ice-Scales",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+    "id": "0560",
+    "name": "Scrafty",
+    "types": "Dark, Fighting",
+    "species": "Hoodlum Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "abilities": "Intimidate, Shed-Skin, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
   }
 }
