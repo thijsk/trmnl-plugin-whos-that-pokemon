@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-25T12:20:07.824281",
+  "timestamp": "2026-08-26T12:21:55.127614",
   "pokemon_data": {
-    "id": "0810",
-    "name": "Grookey",
-    "types": "Grass",
-    "species": "Chimp Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "5.0 kg",
-    "abilities": "Overgrow, Grassy-Surge",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png"
+    "id": "0716",
+    "name": "Xerneas",
+    "types": "Fairy",
+    "species": "Life Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "215.0 kg",
+    "abilities": "Fairy-Aura",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
   }
 }
