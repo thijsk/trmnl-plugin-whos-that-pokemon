@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-27T21:21:05.679737",
+  "timestamp": "2026-08-28T21:32:52.321936",
   "pokemon_data": {
-    "id": "0298",
-    "name": "Azurill",
-    "types": "Normal, Fairy",
-    "species": "Polka Dot Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "2.0 kg",
-    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png"
+    "id": "1003",
+    "name": "Ting-Lu",
+    "types": "Dark, Ground",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "699.7 kg",
+    "abilities": "Vessel-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
   }
 }
