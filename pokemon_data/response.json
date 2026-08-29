@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-28T21:32:52.321936",
+  "timestamp": "2026-08-29T15:48:09.908867",
   "pokemon_data": {
-    "id": "1003",
-    "name": "Ting-Lu",
-    "types": "Dark, Ground",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "2.7 m",
-    "weight": "699.7 kg",
-    "abilities": "Vessel-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
+    "id": "0020",
+    "name": "Raticate",
+    "types": "Normal",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "18.5 kg",
+    "abilities": "Run-Away, Guts, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
   }
 }
