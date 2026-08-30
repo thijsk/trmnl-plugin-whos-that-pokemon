@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-29T15:48:09.908867",
+  "timestamp": "2026-08-30T15:32:46.499525",
   "pokemon_data": {
-    "id": "0020",
-    "name": "Raticate",
-    "types": "Normal",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "18.5 kg",
-    "abilities": "Run-Away, Guts, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+    "id": "0691",
+    "name": "Dragalge",
+    "types": "Poison, Dragon",
+    "species": "Mock Kelp Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "81.5 kg",
+    "abilities": "Poison-Point, Poison-Touch, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
   }
 }
