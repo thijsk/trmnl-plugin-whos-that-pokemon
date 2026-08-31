@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-30T15:32:46.499525",
+  "timestamp": "2026-08-31T18:15:59.741388",
   "pokemon_data": {
-    "id": "0691",
-    "name": "Dragalge",
-    "types": "Poison, Dragon",
-    "species": "Mock Kelp Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "81.5 kg",
-    "abilities": "Poison-Point, Poison-Touch, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
+    "id": "0036",
+    "name": "Clefable",
+    "types": "Fairy",
+    "species": "Fairy Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "40.0 kg",
+    "abilities": "Cute-Charm, Magic-Guard, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
   }
 }
