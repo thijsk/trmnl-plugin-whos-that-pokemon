@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-01T15:37:29.460338",
+  "timestamp": "2026-09-02T15:25:19.591168",
   "pokemon_data": {
-    "id": "0812",
-    "name": "Rillaboom",
-    "types": "Grass",
-    "species": "Drummer Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "90.0 kg",
-    "abilities": "Overgrow, Grassy-Surge",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png"
+    "id": "0121",
+    "name": "Starmie",
+    "types": "Water, Psychic",
+    "species": "Mysterious Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "80.0 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
   }
 }
