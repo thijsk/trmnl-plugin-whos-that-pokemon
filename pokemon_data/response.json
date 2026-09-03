@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T15:25:19.591168",
+  "timestamp": "2026-09-03T15:18:31.617040",
   "pokemon_data": {
-    "id": "0121",
-    "name": "Starmie",
-    "types": "Water, Psychic",
-    "species": "Mysterious Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "80.0 kg",
-    "abilities": "Illuminate, Natural-Cure, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+    "id": "0669",
+    "name": "Flabebe",
+    "types": "Fairy",
+    "species": "Single Bloom Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.1 kg",
+    "abilities": "Flower-Veil, Symbiosis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
   }
 }
