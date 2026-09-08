@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T16:43:06.332533",
+  "timestamp": "2026-09-08T15:26:47.063071",
   "pokemon_data": {
-    "id": "0061",
-    "name": "Poliwhirl",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "20.0 kg",
-    "abilities": "Water-Absorb, Damp, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+    "id": "0485",
+    "name": "Heatran",
+    "types": "Fire, Steel",
+    "species": "Lava Dome Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "430.0 kg",
+    "abilities": "Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png"
   }
 }
