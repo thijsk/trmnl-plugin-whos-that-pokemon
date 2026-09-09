@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T15:26:47.063071",
+  "timestamp": "2026-09-09T15:23:15.273929",
   "pokemon_data": {
-    "id": "0485",
-    "name": "Heatran",
-    "types": "Fire, Steel",
-    "species": "Lava Dome Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "430.0 kg",
-    "abilities": "Flash-Fire, Flame-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png"
+    "id": "0559",
+    "name": "Scraggy",
+    "types": "Dark, Fighting",
+    "species": "Shedding Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.8 kg",
+    "abilities": "Shed-Skin, Moxie, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
   }
 }
