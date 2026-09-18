@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T15:43:35.851939",
+  "timestamp": "2026-09-18T15:16:25.730682",
   "pokemon_data": {
-    "id": "0933",
-    "name": "Naclstack",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "105.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png"
+    "id": "0087",
+    "name": "Dewgong",
+    "types": "Water, Ice",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "120.0 kg",
+    "abilities": "Thick-Fat, Hydration, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
   }
 }
