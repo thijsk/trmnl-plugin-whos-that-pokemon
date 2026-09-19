@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T15:16:25.730682",
+  "timestamp": "2026-09-19T14:53:25.367654",
   "pokemon_data": {
-    "id": "0087",
-    "name": "Dewgong",
-    "types": "Water, Ice",
-    "species": "Sea Lion Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "120.0 kg",
-    "abilities": "Thick-Fat, Hydration, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+    "id": "0622",
+    "name": "Golett",
+    "types": "Ground, Ghost",
+    "species": "Automaton Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "92.0 kg",
+    "abilities": "Iron-Fist, Klutz, No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
   }
 }
