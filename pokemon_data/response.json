@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-22T15:48:14.959813",
+  "timestamp": "2026-09-23T15:38:06.104498",
   "pokemon_data": {
-    "id": "0139",
-    "name": "Omastar",
-    "types": "Rock, Water",
-    "species": "Spiral Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "35.0 kg",
-    "abilities": "Swift-Swim, Shell-Armor, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+    "id": "0955",
+    "name": "Flittle",
+    "types": "Psychic",
+    "species": "Frill Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.5 kg",
+    "abilities": "Anticipation, Frisk, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png"
   }
 }
