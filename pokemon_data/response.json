@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T15:58:54.077407",
+  "timestamp": "2026-09-25T15:59:22.879424",
   "pokemon_data": {
-    "id": "1005",
-    "name": "Roaring-Moon",
-    "types": "Dragon, Dark",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "380.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png"
+    "id": "0912",
+    "name": "Quaxly",
+    "types": "Water",
+    "species": "Duckling Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.1 kg",
+    "abilities": "Torrent, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
   }
 }
