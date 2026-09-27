@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T15:11:03.456576",
+  "timestamp": "2026-09-27T15:52:15.477507",
   "pokemon_data": {
-    "id": "0669",
-    "name": "Flabebe",
-    "types": "Fairy",
-    "species": "Single Bloom Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.1 kg",
-    "abilities": "Flower-Veil, Symbiosis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+    "id": "0298",
+    "name": "Azurill",
+    "types": "Normal, Fairy",
+    "species": "Polka Dot Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.0 kg",
+    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png"
   }
 }
