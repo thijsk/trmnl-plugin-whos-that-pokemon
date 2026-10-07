@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-06T17:28:02.338595",
+  "timestamp": "2026-10-07T18:00:20.060698",
   "pokemon_data": {
-    "id": "0292",
-    "name": "Shedinja",
-    "types": "Bug, Ghost",
-    "species": "Shed Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "1.2 kg",
-    "abilities": "Wonder-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
+    "id": "0545",
+    "name": "Scolipede",
+    "types": "Bug, Poison",
+    "species": "Megapede Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "200.5 kg",
+    "abilities": "Poison-Point, Swarm, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
   }
 }
