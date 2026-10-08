@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-07T18:00:20.060698",
+  "timestamp": "2026-10-08T18:02:14.073209",
   "pokemon_data": {
-    "id": "0545",
-    "name": "Scolipede",
-    "types": "Bug, Poison",
-    "species": "Megapede Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "200.5 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    "id": "1019",
+    "name": "Hydrapple",
+    "types": "Grass, Dragon",
+    "species": "Apple Hydra Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "93.0 kg",
+    "abilities": "Supersweet-Syrup, Regenerator, Sticky-Hold",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
   }
 }
