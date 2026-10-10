@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T17:35:40.704364",
+  "timestamp": "2026-10-10T16:26:11.718820",
   "pokemon_data": {
-    "id": "0739",
-    "name": "Crabrawler",
-    "types": "Fighting",
-    "species": "Boxing Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "7.0 kg",
-    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
+    "id": "0381",
+    "name": "Latios",
+    "types": "Dragon, Psychic",
+    "species": "Eon Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "60.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png"
   }
 }
