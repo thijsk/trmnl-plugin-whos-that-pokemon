@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T20:28:21.999533",
+  "timestamp": "2026-10-13T18:33:43.347239",
   "pokemon_data": {
-    "id": "0202",
-    "name": "Wobbuffet",
-    "types": "Psychic",
-    "species": "Patient Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "28.5 kg",
-    "abilities": "Shadow-Tag, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+    "id": "0783",
+    "name": "Hakamo-O",
+    "types": "Dragon, Fighting",
+    "species": "Scaly Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "47.0 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
   }
 }
