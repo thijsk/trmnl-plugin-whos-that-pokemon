@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T18:33:43.347239",
+  "timestamp": "2026-10-14T16:01:26.956268",
   "pokemon_data": {
-    "id": "0783",
-    "name": "Hakamo-O",
-    "types": "Dragon, Fighting",
-    "species": "Scaly Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "47.0 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
+    "id": "0488",
+    "name": "Cresselia",
+    "types": "Psychic",
+    "species": "Lunar Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "85.6 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
   }
 }
