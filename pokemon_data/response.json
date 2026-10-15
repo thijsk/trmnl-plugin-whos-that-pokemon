@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T16:01:26.956268",
+  "timestamp": "2026-10-15T15:49:46.770634",
   "pokemon_data": {
-    "id": "0488",
-    "name": "Cresselia",
-    "types": "Psychic",
-    "species": "Lunar Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "85.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
+    "id": "0953",
+    "name": "Rellor",
+    "types": "Bug",
+    "species": "Rolling Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Compound-Eyes, Shed-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
   }
 }
