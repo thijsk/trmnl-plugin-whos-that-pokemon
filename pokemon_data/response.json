@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T15:49:46.770634",
+  "timestamp": "2026-10-16T15:38:20.086274",
   "pokemon_data": {
-    "id": "0953",
-    "name": "Rellor",
-    "types": "Bug",
-    "species": "Rolling Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.0 kg",
-    "abilities": "Compound-Eyes, Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
+    "id": "0355",
+    "name": "Duskull",
+    "types": "Ghost",
+    "species": "Requiem Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "15.0 kg",
+    "abilities": "Levitate, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
   }
 }
