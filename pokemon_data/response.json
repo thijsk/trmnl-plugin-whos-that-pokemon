@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T14:56:57.829363",
+  "timestamp": "2026-10-19T17:49:24.644452",
   "pokemon_data": {
-    "id": "0152",
-    "name": "Chikorita",
-    "types": "Grass",
-    "species": "Leaf Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "6.4 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+    "id": "1013",
+    "name": "Sinistcha",
+    "types": "Grass, Ghost",
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "2.2 kg",
+    "abilities": "Hospitality, Heatproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
   }
 }
