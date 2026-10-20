@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-19T17:49:24.644452",
+  "timestamp": "2026-10-20T15:53:21.123218",
   "pokemon_data": {
-    "id": "1013",
-    "name": "Sinistcha",
-    "types": "Grass, Ghost",
-    "species": "Matcha Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "2.2 kg",
-    "abilities": "Hospitality, Heatproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
+    "id": "0740",
+    "name": "Crabominable",
+    "types": "Fighting, Ice",
+    "species": "Woolly Crab Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "180.0 kg",
+    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
   }
 }
