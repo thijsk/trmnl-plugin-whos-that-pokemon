@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-20T15:53:21.123218",
+  "timestamp": "2026-10-21T16:10:39.451835",
   "pokemon_data": {
-    "id": "0740",
-    "name": "Crabominable",
-    "types": "Fighting, Ice",
-    "species": "Woolly Crab Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "180.0 kg",
-    "abilities": "Hyper-Cutter, Iron-Fist, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
+    "id": "0808",
+    "name": "Meltan",
+    "types": "Steel",
+    "species": "Hex Nut Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "8.0 kg",
+    "abilities": "Magnet-Pull",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png"
   }
 }
