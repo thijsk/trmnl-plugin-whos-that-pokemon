@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-21T16:10:39.451835",
+  "timestamp": "2026-10-22T16:08:24.051585",
   "pokemon_data": {
-    "id": "0808",
-    "name": "Meltan",
-    "types": "Steel",
-    "species": "Hex Nut Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "8.0 kg",
-    "abilities": "Magnet-Pull",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png"
+    "id": "0995",
+    "name": "Iron-Thorns",
+    "types": "Rock, Electric",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "303.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
   }
 }
