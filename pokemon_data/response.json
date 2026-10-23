@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-22T16:08:24.051585",
+  "timestamp": "2026-10-23T15:58:43.203976",
   "pokemon_data": {
-    "id": "0995",
-    "name": "Iron-Thorns",
-    "types": "Rock, Electric",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "303.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
+    "id": "0321",
+    "name": "Wailord",
+    "types": "Water",
+    "species": "Float Whale Pok\u00e9mon",
+    "height": "14.5 m",
+    "weight": "398.0 kg",
+    "abilities": "Water-Veil, Oblivious, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png"
   }
 }
