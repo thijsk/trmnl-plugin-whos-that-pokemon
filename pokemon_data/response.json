@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T17:17:46.867874",
+  "timestamp": "2026-10-31T16:22:59.779886",
   "pokemon_data": {
-    "id": "0928",
-    "name": "Smoliv",
-    "types": "Grass, Normal",
-    "species": "Olive Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.5 kg",
-    "abilities": "Early-Bird, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
+    "id": "0122",
+    "name": "Mr-Mime",
+    "types": "Psychic, Fairy",
+    "species": "Barrier Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "54.5 kg",
+    "abilities": "Soundproof, Filter, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
   }
 }
