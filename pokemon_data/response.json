@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-01T17:16:56.533686",
+  "timestamp": "2026-11-02T20:55:01.166263",
   "pokemon_data": {
-    "id": "0580",
-    "name": "Ducklett",
-    "types": "Water, Flying",
-    "species": "Water Bird Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Keen-Eye, Big-Pecks, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+    "id": "0149",
+    "name": "Dragonite",
+    "types": "Dragon, Flying",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "210.0 kg",
+    "abilities": "Inner-Focus, Multiscale",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
   }
 }
