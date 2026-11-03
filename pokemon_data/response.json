@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T20:55:01.166263",
+  "timestamp": "2026-11-03T18:42:27.282653",
   "pokemon_data": {
-    "id": "0149",
-    "name": "Dragonite",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "210.0 kg",
-    "abilities": "Inner-Focus, Multiscale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+    "id": "0214",
+    "name": "Heracross",
+    "types": "Bug, Fighting",
+    "species": "Single Horn Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "54.0 kg",
+    "abilities": "Swarm, Guts, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
   }
 }
