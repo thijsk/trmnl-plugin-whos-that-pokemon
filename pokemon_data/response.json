@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T18:42:27.282653",
+  "timestamp": "2026-11-04T18:55:29.149185",
   "pokemon_data": {
-    "id": "0214",
-    "name": "Heracross",
-    "types": "Bug, Fighting",
-    "species": "Single Horn Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "54.0 kg",
-    "abilities": "Swarm, Guts, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+    "id": "0494",
+    "name": "Victini",
+    "types": "Psychic, Fire",
+    "species": "Victory Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.0 kg",
+    "abilities": "Victory-Star",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png"
   }
 }
