@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T21:39:52.361983",
+  "timestamp": "2026-11-10T18:57:09.565923",
   "pokemon_data": {
-    "id": "0012",
-    "name": "Butterfree",
-    "types": "Bug, Flying",
-    "species": "Butterfly Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.0 kg",
-    "abilities": "Compound-Eyes, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+    "id": "0269",
+    "name": "Dustox",
+    "types": "Bug, Poison",
+    "species": "Poison Moth Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "31.6 kg",
+    "abilities": "Shield-Dust, Compound-Eyes",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
   }
 }
