@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T19:14:06.286811",
+  "timestamp": "2026-11-13T18:50:03.960763",
   "pokemon_data": {
-    "id": "0621",
-    "name": "Druddigon",
-    "types": "Dragon",
-    "species": "Cave Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "139.0 kg",
-    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+    "id": "0956",
+    "name": "Espathra",
+    "types": "Psychic",
+    "species": "Ostrich Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "90.0 kg",
+    "abilities": "Opportunist, Frisk, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
   }
 }
