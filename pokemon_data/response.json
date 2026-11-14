@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T18:50:03.960763",
+  "timestamp": "2026-11-14T17:22:21.119691",
   "pokemon_data": {
-    "id": "0956",
-    "name": "Espathra",
-    "types": "Psychic",
-    "species": "Ostrich Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "90.0 kg",
-    "abilities": "Opportunist, Frisk, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
+    "id": "0927",
+    "name": "Dachsbun",
+    "types": "Fairy",
+    "species": "Dog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "14.9 kg",
+    "abilities": "Well-Baked-Body, Aroma-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
   }
 }
