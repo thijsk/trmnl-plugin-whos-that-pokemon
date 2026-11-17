@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T21:18:31.115341",
+  "timestamp": "2026-11-17T20:06:56.737279",
   "pokemon_data": {
-    "id": "0827",
-    "name": "Nickit",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+    "id": "0902",
+    "name": "Basculegion-Male",
+    "types": "Water, Ghost",
+    "species": "Big Fish Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
   }
 }
