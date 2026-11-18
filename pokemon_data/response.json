@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T20:06:56.737279",
+  "timestamp": "2026-11-18T19:39:29.578469",
   "pokemon_data": {
-    "id": "0902",
-    "name": "Basculegion-Male",
-    "types": "Water, Ghost",
-    "species": "Big Fish Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Swift-Swim, Adaptability, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
+    "id": "0976",
+    "name": "Veluza",
+    "types": "Water, Psychic",
+    "species": "Jettison Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "90.0 kg",
+    "abilities": "Mold-Breaker, Sharpness",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
   }
 }
