@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T19:39:29.578469",
+  "timestamp": "2026-11-19T19:39:43.192857",
   "pokemon_data": {
-    "id": "0976",
-    "name": "Veluza",
-    "types": "Water, Psychic",
-    "species": "Jettison Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "90.0 kg",
-    "abilities": "Mold-Breaker, Sharpness",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
+    "id": "0041",
+    "name": "Zubat",
+    "types": "Poison, Flying",
+    "species": "Bat Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "7.5 kg",
+    "abilities": "Inner-Focus, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
   }
 }
