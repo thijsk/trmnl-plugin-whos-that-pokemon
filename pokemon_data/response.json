@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-19T19:39:43.192857",
+  "timestamp": "2026-11-20T19:17:58.338185",
   "pokemon_data": {
-    "id": "0041",
-    "name": "Zubat",
-    "types": "Poison, Flying",
-    "species": "Bat Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "7.5 kg",
-    "abilities": "Inner-Focus, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
+    "id": "0116",
+    "name": "Horsea",
+    "types": "Water",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "8.0 kg",
+    "abilities": "Swift-Swim, Sniper, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
   }
 }
