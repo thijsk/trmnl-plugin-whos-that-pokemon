@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-23T22:57:29.698797",
+  "timestamp": "2026-11-24T21:36:38.345901",
   "pokemon_data": {
-    "id": "0502",
-    "name": "Dewott",
-    "types": "Water",
-    "species": "Discipline Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+    "id": "0255",
+    "name": "Torchic",
+    "types": "Fire",
+    "species": "Chick Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "2.5 kg",
+    "abilities": "Blaze, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
   }
 }
