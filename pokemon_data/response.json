@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-24T21:36:38.345901",
+  "timestamp": "2026-11-25T20:44:21.039009",
   "pokemon_data": {
-    "id": "0255",
-    "name": "Torchic",
-    "types": "Fire",
-    "species": "Chick Pok\u00e9mon",
+    "id": "0187",
+    "name": "Hoppip",
+    "types": "Grass, Flying",
+    "species": "Cottonweed Pok\u00e9mon",
     "height": "0.4 m",
-    "weight": "2.5 kg",
-    "abilities": "Blaze, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+    "weight": "0.5 kg",
+    "abilities": "Chlorophyll, Leaf-Guard, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
   }
 }
