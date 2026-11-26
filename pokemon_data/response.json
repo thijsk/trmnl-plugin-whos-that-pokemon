@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-25T20:44:21.039009",
+  "timestamp": "2026-11-26T20:36:13.574672",
   "pokemon_data": {
-    "id": "0187",
-    "name": "Hoppip",
-    "types": "Grass, Flying",
-    "species": "Cottonweed Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "0.5 kg",
-    "abilities": "Chlorophyll, Leaf-Guard, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
+    "id": "0432",
+    "name": "Purugly",
+    "types": "Normal",
+    "species": "Tiger Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
